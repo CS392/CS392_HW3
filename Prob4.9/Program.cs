@@ -1,4 +1,4 @@
-namespace Prob4._9
+namespace Time_Calculator
 {
     internal static class Program
     {
