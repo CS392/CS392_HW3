@@ -1,4 +1,4 @@
-namespace Prob4._5
+namespace Distance_Converter
 {
     internal static class Program
     {
